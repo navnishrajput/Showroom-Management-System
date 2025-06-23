@@ -21,15 +21,15 @@ public class Showroom implements utility{
         Scanner sc = new Scanner(System.in);
         System.out.println("======================= *** ENTER SHOWROOM DETAILS *** =======================");
         System.out.println();
-        System.out.print("SHOWROOM NAME: ");
+        System.out.print("Showroom Name: ");
         showroom_name = sc.nextLine();
-        System.out.print(("SHOWROOM ADDRESS: "));
+        System.out.print(("Showroom Address: "));
         showroom_address = sc.nextLine();
-        System.out.print("MANAGER NAME: ");
+        System.out.print("Manager Name: ");
         manager_name = sc.nextLine();
-        System.out.print("TOTAL NO OF EMPLOYEES: ");
+        System.out.print("Total number of Employee: ");
         total_employees = sc.nextInt();
-        System.out.print("TOTAL CARS IN STOCK: ");
+        System.out.print("Total number of cars in stock: ");
         total_cars_in_stock = sc.nextInt();
 
     }
