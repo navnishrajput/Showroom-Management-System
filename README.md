@@ -1,29 +1,28 @@
-🚗 Showroom Management System 🏢
+# 🚗 Showroom Management System 🏢
+
 
 A Java-based console application for managing car showrooms, employees, and inventory.
 
-
-
-📌 Overview
+## 📌 Overview
 This Showroom Management System provides an easy way to manage:
 🏢 Showrooms
 👨‍💼 Employees
 🚘 Cars
 
 Built with Java, it features a menu-driven interface for adding and viewing details.
-✨ Features
+## ✨ Features
 ✅ Add & Manage Showrooms
 ✅ Employee Management
 ✅ Car Inventory Tracking
 ✅ Simple Console UI
 ✅ Object-Oriented Design
 
-🛠️ How to Run
+## 🛠️ How to Run
 Prerequisites
 Java JDK 8+ (Recommended: OpenJDK or Oracle JDK)
 
 
-🖥️ Usage
+## 🖥️ Usage
 Main Menu
 text
 ======================= *** WELCOME TO SHOWROOM MANAGEMENT SYSTEM *** =======================
@@ -33,7 +32,7 @@ text
 4].GET SHOWROOMS 📋        5].GET EMPLOYEES 📝        6].GET CARS 📑
 =============================== *** ENTER 0 TO EXIT *** ===============================
 
-Options
+## Options
 1️⃣ Add Showroom: Enter showroom details (name, location, etc.)
 
 2️⃣ Add Employee: Store employee information
@@ -44,7 +43,7 @@ Options
 
 0️⃣ Exit: Close the program
 
-📂 Project Structure
+## 📂 Project Structure
 text
 📁 src/
 ├── Main.java            # Main program & menu logic
